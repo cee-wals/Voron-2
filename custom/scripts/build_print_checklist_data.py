@@ -65,13 +65,12 @@ def record_builder(fpath):
 
     quantity = re.findall('[_|\-]x(\d)', part_fname)
     if quantity:
-        quantity = quantity[0]
+        quantity = int(quantity[0])
     else:
         quantity = 1
 
     status = "Not Printed"
     quality = ""
-    quantity = 1
     filament = "Prusament ASA"
     required = "YES"
     build_mod = "NO"

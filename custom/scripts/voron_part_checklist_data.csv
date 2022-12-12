@@ -1,16 +1,16 @@
-Z-Drive,,z-drive-main-b,1,Black,Not Printed,,YES,NO,Z_Drive/z_drive_main_b_x2.stl,Prusament ASA
-Z-Drive,,z-drive-baseplate-a,1,Red,Not Printed,,YES,NO,Z_Drive/[a]_z_drive_baseplate_a_x2.stl,Prusament ASA
-Z-Drive,,z-motor-mount-a,1,Black,Not Printed,,YES,NO,Z_Drive/z_motor_mount_a_x2.stl,Prusament ASA
-Z-Drive,,belt-tensioner-a,1,Red,Not Printed,,YES,NO,Z_Drive/[a]_belt_tensioner_a_x2.stl,Prusament ASA
-Z-Drive,,z-drive-retainer-b,1,Black,Not Printed,,YES,NO,Z_Drive/z_drive_retainer_b_x2.stl,Prusament ASA
-Z-Drive,,z-drive-baseplate-b,1,Red,Not Printed,,YES,NO,Z_Drive/[a]_z_drive_baseplate_b_x2.stl,Prusament ASA
-Z-Drive,,z-drive-main-a,1,Black,Not Printed,,YES,NO,Z_Drive/z_drive_main_a_x2.stl,Prusament ASA
-Z-Drive,,z-drive-retainer-a,1,Black,Not Printed,,YES,NO,Z_Drive/z_drive_retainer_a_x2.stl,Prusament ASA
-Z-Drive,,z-motor-mount-b,1,Black,Not Printed,,YES,NO,Z_Drive/z_motor_mount_b_x2.stl,Prusament ASA
-Z-Drive,,belt-tensioner-b,1,Red,Not Printed,,YES,NO,Z_Drive/[a]_belt_tensioner_b_x2.stl,Prusament ASA
-Tools,,MGN9-rail-guide,1,Black,Not Printed,,YES,NO,Tools/MGN9_rail_guide_x2.stl,Prusament ASA
+Z-Drive,,z-drive-main-b,2,Black,Not Printed,,YES,NO,Z_Drive/z_drive_main_b_x2.stl,Prusament ASA
+Z-Drive,,z-drive-baseplate-a,2,Red,Not Printed,,YES,NO,Z_Drive/[a]_z_drive_baseplate_a_x2.stl,Prusament ASA
+Z-Drive,,z-motor-mount-a,2,Black,Not Printed,,YES,NO,Z_Drive/z_motor_mount_a_x2.stl,Prusament ASA
+Z-Drive,,belt-tensioner-a,2,Red,Not Printed,,YES,NO,Z_Drive/[a]_belt_tensioner_a_x2.stl,Prusament ASA
+Z-Drive,,z-drive-retainer-b,2,Black,Not Printed,,YES,NO,Z_Drive/z_drive_retainer_b_x2.stl,Prusament ASA
+Z-Drive,,z-drive-baseplate-b,2,Red,Not Printed,,YES,NO,Z_Drive/[a]_z_drive_baseplate_b_x2.stl,Prusament ASA
+Z-Drive,,z-drive-main-a,2,Black,Not Printed,,YES,NO,Z_Drive/z_drive_main_a_x2.stl,Prusament ASA
+Z-Drive,,z-drive-retainer-a,2,Black,Not Printed,,YES,NO,Z_Drive/z_drive_retainer_a_x2.stl,Prusament ASA
+Z-Drive,,z-motor-mount-b,2,Black,Not Printed,,YES,NO,Z_Drive/z_motor_mount_b_x2.stl,Prusament ASA
+Z-Drive,,belt-tensioner-b,2,Red,Not Printed,,YES,NO,Z_Drive/[a]_belt_tensioner_b_x2.stl,Prusament ASA
+Tools,,MGN9-rail-guide,2,Black,Not Printed,,YES,NO,Tools/MGN9_rail_guide_x2.stl,Prusament ASA
 Tools,,bed-hole-marking-template-Rev2,1,Black,Not Printed,,YES,NO,Tools/bed_hole_marking_template_x1_Rev2.STL,Prusament ASA
-Tools,,MGN12-rail-guide,1,Black,Not Printed,,YES,NO,Tools/MGN12_rail_guide_x2.stl,Prusament ASA
+Tools,,MGN12-rail-guide,2,Black,Not Printed,,YES,NO,Tools/MGN12_rail_guide_x2.stl,Prusament ASA
 Tools,,bottom-panel-modification,1,Black,Not Printed,,YES,NO,Tools/bottom_panel_modification.png,Prusament ASA
 Tools,,pulley-jig,1,Black,Not Printed,,YES,NO,Tools/pulley_jig.stl,Prusament ASA
 Tools,,bottom-panel-template,1,Black,Not Printed,,YES,NO,Tools/bottom_panel_template.stl,Prusament ASA
@@ -23,21 +23,21 @@ Test-Prints,,Heatset-Practice,1,Black,Not Printed,,YES,NO,Test_Prints/Heatset_Pr
 Test-Prints,,Thread-Test-3-Rev1,1,Black,Not Printed,,YES,NO,Test_Prints/Thread_Test_3_x1_Rev1.STL,Prusament ASA
 Spool-Management,,spool-holder,1,Black,Not Printed,,YES,NO,Spool_Management/spool_holder.stl,Prusament ASA
 Spool-Management,,bowden-retainer,1,Black,Not Printed,,YES,NO,Spool_Management/bowden_retainer.stl,Prusament ASA
-Skirts,,belt-guard-b,1,Red,Not Printed,,YES,NO,Skirts/[a]_belt_guard_b_x2.stl,Prusament ASA
+Skirts,,belt-guard-b,2,Red,Not Printed,,YES,NO,Skirts/[a]_belt_guard_b_x2.stl,Prusament ASA
 Skirts,,keystone-blank-insert,1,Red,Not Printed,,YES,NO,Skirts/[a]_keystone_blank_insert.stl,Prusament ASA
-Skirts,,fan-grill-open-optional,1,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_open_optional_x2.stl,Prusament ASA
+Skirts,,fan-grill-open-optional,2,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_open_optional_x2.stl,Prusament ASA
 Skirts,,power-inlet-IECGS-1.2mm,1,Black,Not Printed,,YES,NO,Skirts/power_inlet_IECGS_1.2mm.stl,Prusament ASA
-Skirts,,side-fan-support,1,Black,Not Printed,,YES,NO,Skirts/side_fan_support_x2.stl,Prusament ASA
+Skirts,,side-fan-support,2,Black,Not Printed,,YES,NO,Skirts/side_fan_support_x2.stl,Prusament ASA
 Skirts,,mini12864-case-front,1,Black,Not Printed,,YES,NO,Skirts/mini12864_case_front.stl,Prusament ASA
-Skirts,,fan-grill-a,1,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_a_x2.stl,Prusament ASA
+Skirts,,fan-grill-a,2,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_a_x2.stl,Prusament ASA
 Skirts,,mini12864-case-rear,1,Black,Not Printed,,YES,NO,Skirts/mini12864_case_rear.stl,Prusament ASA
 Skirts,,power-inlet-filtered,1,Black,Not Printed,,YES,NO,Skirts/power_inlet_filtered.stl,Prusament ASA
-Skirts,,belt-guard-a,1,Red,Not Printed,,YES,NO,Skirts/[a]_belt_guard_a_x2.stl,Prusament ASA
+Skirts,,belt-guard-a,2,Red,Not Printed,,YES,NO,Skirts/[a]_belt_guard_a_x2.stl,Prusament ASA
 Skirts,,btt-knob-light-shield,1,Red,Not Printed,,YES,NO,Skirts/[a]_btt_knob_light_shield.stl,Prusament ASA
 Skirts,,power-inlet-IECGS-1mm,1,Black,Not Printed,,YES,NO,Skirts/power_inlet_IECGS_1mm.stl,Prusament ASA
 Skirts,,mini12864-case-hinge,1,Red,Not Printed,,YES,NO,Skirts/[a]_mini12864_case_hinge.stl,Prusament ASA
-Skirts,,fan-grill-b,1,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_b_x2.stl,Prusament ASA
-Skirts,,fan-grill-retainer,1,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_retainer_x2.stl,Prusament ASA
+Skirts,,fan-grill-b,2,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_b_x2.stl,Prusament ASA
+Skirts,,fan-grill-retainer,2,Red,Not Printed,,YES,NO,Skirts/[a]_fan_grill_retainer_x2.stl,Prusament ASA
 Skirts,,mini12864-case-front-insert,1,Red,Not Printed,,YES,NO,Skirts/[a]_mini12864_case_front_insert.stl,Prusament ASA
 Skirts,,keystone-panel,1,Black,Not Printed,,YES,NO,Skirts/keystone_panel.stl,Prusament ASA
 Skirts,300,side-skirt-b-300,0,Black,DO NOT PRINT,N/A,NO,NO,Skirts/300/side_skirt_b_300_x2.stl,Prusament ASA
@@ -50,11 +50,11 @@ Skirts,250,rear-center-skirt-250,0,Black,DO NOT PRINT,N/A,NO,NO,Skirts/250/rear_
 Skirts,250,front-skirt-a-250,0,Black,DO NOT PRINT,N/A,NO,NO,Skirts/250/front_skirt_a_250.stl,Prusament ASA
 Skirts,250,front-skirt-b-250,0,Black,DO NOT PRINT,N/A,NO,NO,Skirts/250/front_skirt_b_250.stl,Prusament ASA
 Skirts,250,side-skirt-b-250,0,Black,DO NOT PRINT,N/A,NO,NO,Skirts/250/side_skirt_b_250_x2.stl,Prusament ASA
-Skirts,350,side-skirt-a-350,1,Black,Not Printed,,YES,NO,Skirts/350/side_skirt_a_350_x2.stl,Prusament ASA
+Skirts,350,side-skirt-a-350,2,Black,Not Printed,,YES,NO,Skirts/350/side_skirt_a_350_x2.stl,Prusament ASA
 Skirts,350,front-skirt-b-350,1,Black,Not Printed,,YES,NO,Skirts/350/front_skirt_b_350.stl,Prusament ASA
 Skirts,350,rear-center-skirt-350,1,Black,Not Printed,,YES,NO,Skirts/350/rear_center_skirt_350.stl,Prusament ASA
 Skirts,350,front-skirt-a-350,1,Black,Not Printed,,YES,NO,Skirts/350/front_skirt_a_350.stl,Prusament ASA
-Skirts,350,side-skirt-b-350,1,Black,Not Printed,,YES,NO,Skirts/350/side_skirt_b_350_x2.stl,Prusament ASA
+Skirts,350,side-skirt-b-350,2,Black,Not Printed,,YES,NO,Skirts/350/side_skirt_b_350_x2.stl,Prusament ASA
 Superceded-Parts,,stopgap-80T-hubbed-gear,0,Red,DO NOT PRINT,N/A,NO,NO,Superceded_Parts/[a]_stopgap_80T_hubbed_gear.stl,Prusament ASA
 Superceded-Parts,,z-tensioner-6mm,0,Red,DO NOT PRINT,N/A,NO,NO,Superceded_Parts/[a]_z_tensioner_x4_6mm.stl,Prusament ASA
 Superceded-Parts,MGN9-X,xy-joint-right-upper-MGN9,0,Black,DO NOT PRINT,N/A,NO,NO,Superceded_Parts/MGN9_X/xy_joint_right_upper_MGN9.stl,Prusament ASA
@@ -82,14 +82,14 @@ Superceded-Parts,Frame-Brackets,raspberry-pi-bracket,0,Black,DO NOT PRINT,N/A,NO
 Superceded-Parts,Frame-Brackets,duet-duex-bracket-frame,0,Black,DO NOT PRINT,N/A,NO,NO,Superceded_Parts/Frame_Brackets/duet_duex_bracket_frame_x2.stl,Prusament ASA
 Superceded-Parts,Frame-Brackets,skr-mini-e3-bracket-frame,0,Black,DO NOT PRINT,N/A,NO,NO,Superceded_Parts/Frame_Brackets/skr_mini_e3_bracket_frame.stl,Prusament ASA
 Superceded-Parts,Frame-Brackets,mks-gen-L-bracket-frame,0,Black,DO NOT PRINT,N/A,NO,NO,Superceded_Parts/Frame_Brackets/mks_gen_L_bracket_frame_x2.stl,Prusament ASA
-Electronics-Bay,,pcb-din-clip,1,Black,Not Printed,,YES,NO,Electronics_Bay/pcb_din_clip_x3.stl,Prusament ASA
+Electronics-Bay,,pcb-din-clip,3,Black,Not Printed,,YES,NO,Electronics_Bay/pcb_din_clip_x3.stl,Prusament ASA
 Electronics-Bay,,PSU-stabilizer-50mm,1,Black,Not Printed,,YES,NO,Electronics_Bay/PSU_stabilizer_50mm.stl,Prusament ASA
 Electronics-Bay,,raspberrypi-bracket,1,Black,Not Printed,,YES,NO,Electronics_Bay/raspberrypi_bracket.stl,Prusament ASA
-Electronics-Bay,,lrs-200-psu-bracket,1,Black,Not Printed,,YES,NO,Electronics_Bay/lrs_200_psu_bracket_x2.stl,Prusament ASA
+Electronics-Bay,,lrs-200-psu-bracket,2,Black,Not Printed,,YES,NO,Electronics_Bay/lrs_200_psu_bracket_x2.stl,Prusament ASA
 Electronics-Bay,,rs25-psu-bracket,1,Black,Not Printed,,YES,NO,Electronics_Bay/rs25_psu_bracket.stl,Prusament ASA
 Electronics-Bay,,wago-221-415-mount-3x5,1,Black,Not Printed,,YES,NO,Electronics_Bay/wago_221-415_mount_3x5.stl,Prusament ASA
-Electronics-Bay,Other-PS-Mounts,UHP-350-Mount,1,Black,Not Printed,,YES,NO,Electronics_Bay/Other_PS_Mounts/UHP_350_Mount_x2.stl,Prusament ASA
-Electronics-Bay,Other-PS-Mounts,UHP-200-Mount,1,Black,Not Printed,,YES,NO,Electronics_Bay/Other_PS_Mounts/UHP_200_Mount_x2.stl,Prusament ASA
+Electronics-Bay,Other-PS-Mounts,UHP-350-Mount,2,Black,Not Printed,,YES,NO,Electronics_Bay/Other_PS_Mounts/UHP_350_Mount_x2.stl,Prusament ASA
+Electronics-Bay,Other-PS-Mounts,UHP-200-Mount,2,Black,Not Printed,,YES,NO,Electronics_Bay/Other_PS_Mounts/UHP_200_Mount_x2.stl,Prusament ASA
 Electronics-Bay,Controller-Mounts,Octopus-bracket-set,1,Black,Not Printed,,YES,NO,Electronics_Bay/Controller_Mounts/Octopus_bracket_set.stl,Prusament ASA
 Electronics-Bay,Controller-Mounts,GTR-bracket-set,1,Black,Not Printed,,YES,NO,Electronics_Bay/Controller_Mounts/GTR_bracket_set.stl,Prusament ASA
 Electronics-Bay,Controller-Mounts,BIGDIPPER-bracket-set,1,Black,Not Printed,,YES,NO,Electronics_Bay/Controller_Mounts/BIGDIPPER_bracket_set.stl,Prusament ASA
@@ -99,18 +99,18 @@ Electronics-Bay,Controller-Mounts,Duet2-Duet3Mini5-bracket-set,1,Black,Not Print
 Electronics-Bay,Controller-Mounts,SKR-Pro-bracket-set,1,Black,Not Printed,,YES,NO,Electronics_Bay/Controller_Mounts/SKR_Pro_bracket_set.stl,Prusament ASA
 Electronics-Bay,Controller-Mounts,BTT-MOT-EXP-bracket,1,Black,Not Printed,,YES,NO,Electronics_Bay/Controller_Mounts/BTT_MOT_EXP_bracket.stl,Prusament ASA
 Electronics-Bay,Controller-Mounts,SKR-bracket-inline-set,1,Black,Not Printed,,YES,NO,Electronics_Bay/Controller_Mounts/SKR_bracket_inline_set.stl,Prusament ASA
-Z-Idlers,,z-tensioner-9mm,1,Red,Not Printed,,YES,NO,Z_Idlers/[a]_z_tensioner_x4_9mm.stl,Prusament ASA
-Z-Idlers,,z-tensioner-bracket-a,1,Black,Not Printed,,YES,NO,Z_Idlers/z_tensioner_bracket_a_x2.stl,Prusament ASA
-Z-Idlers,,z-tensioner-bracket-b,1,Black,Not Printed,,YES,NO,Z_Idlers/z_tensioner_bracket_b_x2.stl,Prusament ASA
+Z-Idlers,,z-tensioner-9mm,4,Red,Not Printed,,YES,NO,Z_Idlers/[a]_z_tensioner_x4_9mm.stl,Prusament ASA
+Z-Idlers,,z-tensioner-bracket-a,2,Black,Not Printed,,YES,NO,Z_Idlers/z_tensioner_bracket_a_x2.stl,Prusament ASA
+Z-Idlers,,z-tensioner-bracket-b,2,Black,Not Printed,,YES,NO,Z_Idlers/z_tensioner_bracket_b_x2.stl,Prusament ASA
 Exhaust-Filter,,exhaust-filter-grill,1,Black,Not Printed,,YES,NO,Exhaust_Filter/exhaust_filter_grill.stl,Prusament ASA
 Exhaust-Filter,,exhaust-filter-housing,1,Black,Not Printed,,YES,NO,Exhaust_Filter/exhaust_filter_housing.stl,Prusament ASA
-Exhaust-Filter,,exhaust-filter-mount,1,Red,Not Printed,,YES,NO,Exhaust_Filter/[a]_exhaust_filter_mount_x2.stl,Prusament ASA
+Exhaust-Filter,,exhaust-filter-mount,2,Red,Not Printed,,YES,NO,Exhaust_Filter/[a]_exhaust_filter_mount_x2.stl,Prusament ASA
 Exhaust-Filter,,exhaust-fan-grill,1,Red,Not Printed,,YES,NO,Exhaust_Filter/[a]_exhaust_fan_grill.stl,Prusament ASA
 Exhaust-Filter,,filter-access-cover,1,Red,Not Printed,,YES,NO,Exhaust_Filter/[a]_filter_access_cover.stl,Prusament ASA
 Z-Endstop,,nozzle-probe,1,Black,Not Printed,,YES,NO,Z_Endstop/nozzle_probe.stl,Prusament ASA
 Gantry,,z-chain-bottom-anchor,1,Black,Not Printed,,YES,NO,Gantry/z_chain_bottom_anchor.stl,Prusament ASA
-Gantry,,z-belt-clip-upper,1,Red,Not Printed,,YES,NO,Gantry/[a]_z_belt_clip_upper_x4.stl,Prusament ASA
-Gantry,,z-belt-clip-lower,1,Red,Not Printed,,YES,NO,Gantry/[a]_z_belt_clip_lower_x4.stl,Prusament ASA
+Gantry,,z-belt-clip-upper,4,Red,Not Printed,,YES,NO,Gantry/[a]_z_belt_clip_upper_x4.stl,Prusament ASA
+Gantry,,z-belt-clip-lower,4,Red,Not Printed,,YES,NO,Gantry/[a]_z_belt_clip_lower_x4.stl,Prusament ASA
 Gantry,,z-chain-guide,1,Black,Not Printed,,YES,NO,Gantry/z_chain_guide.stl,Prusament ASA
 Gantry,Front-Idlers,tensioner-left,1,Red,Not Printed,,YES,NO,Gantry/Front_Idlers/[a]_tensioner_left.stl,Prusament ASA
 Gantry,Front-Idlers,front-idler-left-upper,1,Black,Not Printed,,YES,NO,Gantry/Front_Idlers/front_idler_left_upper.stl,Prusament ASA
@@ -163,26 +163,26 @@ Gantry,X-Axis/X-Carriage/Direct-Feed,chain-anchor-2hole,1,Black,Not Printed,,YES
 Gantry,X-Axis/X-Carriage/Direct-Feed,extruder-motor-plate,1,Black,Not Printed,,YES,NO,Gantry/X_Axis/X_Carriage/Direct_Feed/extruder_motor_plate.stl,Prusament ASA
 Gantry,X-Axis/X-Carriage/Direct-Feed,extruder-body,1,Black,Not Printed,,YES,NO,Gantry/X_Axis/X_Carriage/Direct_Feed/extruder_body.stl,Prusament ASA
 Gantry,X-Axis/X-Carriage/Direct-Feed,latch-shuttle,1,Red,Not Printed,,YES,NO,Gantry/X_Axis/X_Carriage/Direct_Feed/[a]_latch_shuttle.stl,Prusament ASA
-Gantry,AB-Drive-Units,z-chain-retainer-bracket,1,Red,Not Printed,,YES,NO,Gantry/AB_Drive_Units/[a]_z_chain_retainer_bracket_x2.stl,Prusament ASA
+Gantry,AB-Drive-Units,z-chain-retainer-bracket,2,Red,Not Printed,,YES,NO,Gantry/AB_Drive_Units/[a]_z_chain_retainer_bracket_x2.stl,Prusament ASA
 Gantry,AB-Drive-Units,cable-cover,1,Red,Not Printed,,YES,NO,Gantry/AB_Drive_Units/[a]_cable_cover.stl,Prusament ASA
 Gantry,AB-Drive-Units,b-drive-frame-upper,1,Black,Not Printed,,YES,NO,Gantry/AB_Drive_Units/b_drive_frame_upper.stl,Prusament ASA
 Gantry,AB-Drive-Units,b-drive-frame-lower,1,Black,Not Printed,,YES,NO,Gantry/AB_Drive_Units/b_drive_frame_lower.stl,Prusament ASA
 Gantry,AB-Drive-Units,a-drive-frame-upper,1,Black,Not Printed,,YES,NO,Gantry/AB_Drive_Units/a_drive_frame_upper.stl,Prusament ASA
 Gantry,AB-Drive-Units,a-drive-frame-lower,1,Black,Not Printed,,YES,NO,Gantry/AB_Drive_Units/a_drive_frame_lower.stl,Prusament ASA
 Gantry,Z-Joints,z-joint-upper-hall-effect,1,Black,Not Printed,,YES,NO,Gantry/Z_Joints/z_joint_upper_hall_effect.stl,Prusament ASA
-Gantry,Z-Joints,z-joint-lower,1,Black,Not Printed,,YES,NO,Gantry/Z_Joints/z_joint_lower_x4.stl,Prusament ASA
-Gantry,Z-Joints,z-joint-upper,1,Black,Not Printed,,YES,NO,Gantry/Z_Joints/z_joint_upper_x4.stl,Prusament ASA
-Panel-Mounting,,midspan-panel-clip-4mm,1,Black,Not Printed,,YES,NO,Panel_Mounting/midspan_panel_clip_4mm_x7.stl,Prusament ASA
-Panel-Mounting,,corner-panel-clip-6mm,1,Black,Not Printed,,YES,NO,Panel_Mounting/corner_panel_clip_6mm_x8.stl,Prusament ASA
-Panel-Mounting,,z-belt-cover-a,1,Black,Not Printed,,YES,NO,Panel_Mounting/z_belt_cover_a_x2.stl,Prusament ASA
-Panel-Mounting,,deck-support-3mm,1,Black,Not Printed,,YES,NO,Panel_Mounting/deck_support_3mm_x8.stl,Prusament ASA
-Panel-Mounting,,midspan-panel-clip-6mm,1,Black,Not Printed,,YES,NO,Panel_Mounting/midspan_panel_clip_6mm_x8.stl,Prusament ASA
-Panel-Mounting,,deck-support-4mm,1,Black,Not Printed,,YES,NO,Panel_Mounting/deck_support_4mm_x8.stl,Prusament ASA
-Panel-Mounting,,z-belt-cover-b,1,Black,Not Printed,,YES,NO,Panel_Mounting/z_belt_cover_b_x2.stl,Prusament ASA
-Panel-Mounting,,bottom-panel-hinge,1,Black,Not Printed,,YES,NO,Panel_Mounting/bottom_panel_hinge_x2.stl,Prusament ASA
-Panel-Mounting,,corner-panel-clip-4mm,1,Black,Not Printed,,YES,NO,Panel_Mounting/corner_panel_clip_4mm_x8.stl,Prusament ASA
-Panel-Mounting,,bottom-panel-clip,1,Black,Not Printed,,YES,NO,Panel_Mounting/bottom_panel_clip_x4.stl,Prusament ASA
-Panel-Mounting,Front-Doors,handle-a,1,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/handle_a_x2.stl,Prusament ASA
-Panel-Mounting,Front-Doors,latch,1,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/latch_x2.stl,Prusament ASA
-Panel-Mounting,Front-Doors,handle-b,1,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/handle_b_x2.stl,Prusament ASA
-Panel-Mounting,Front-Doors,door-hinge,1,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/door_hinge_x6.stl,Prusament ASA
+Gantry,Z-Joints,z-joint-lower,4,Black,Not Printed,,YES,NO,Gantry/Z_Joints/z_joint_lower_x4.stl,Prusament ASA
+Gantry,Z-Joints,z-joint-upper,4,Black,Not Printed,,YES,NO,Gantry/Z_Joints/z_joint_upper_x4.stl,Prusament ASA
+Panel-Mounting,,midspan-panel-clip-4mm,7,Black,Not Printed,,YES,NO,Panel_Mounting/midspan_panel_clip_4mm_x7.stl,Prusament ASA
+Panel-Mounting,,corner-panel-clip-6mm,8,Black,Not Printed,,YES,NO,Panel_Mounting/corner_panel_clip_6mm_x8.stl,Prusament ASA
+Panel-Mounting,,z-belt-cover-a,2,Black,Not Printed,,YES,NO,Panel_Mounting/z_belt_cover_a_x2.stl,Prusament ASA
+Panel-Mounting,,deck-support-3mm,8,Black,Not Printed,,YES,NO,Panel_Mounting/deck_support_3mm_x8.stl,Prusament ASA
+Panel-Mounting,,midspan-panel-clip-6mm,8,Black,Not Printed,,YES,NO,Panel_Mounting/midspan_panel_clip_6mm_x8.stl,Prusament ASA
+Panel-Mounting,,deck-support-4mm,8,Black,Not Printed,,YES,NO,Panel_Mounting/deck_support_4mm_x8.stl,Prusament ASA
+Panel-Mounting,,z-belt-cover-b,2,Black,Not Printed,,YES,NO,Panel_Mounting/z_belt_cover_b_x2.stl,Prusament ASA
+Panel-Mounting,,bottom-panel-hinge,2,Black,Not Printed,,YES,NO,Panel_Mounting/bottom_panel_hinge_x2.stl,Prusament ASA
+Panel-Mounting,,corner-panel-clip-4mm,8,Black,Not Printed,,YES,NO,Panel_Mounting/corner_panel_clip_4mm_x8.stl,Prusament ASA
+Panel-Mounting,,bottom-panel-clip,4,Black,Not Printed,,YES,NO,Panel_Mounting/bottom_panel_clip_x4.stl,Prusament ASA
+Panel-Mounting,Front-Doors,handle-a,2,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/handle_a_x2.stl,Prusament ASA
+Panel-Mounting,Front-Doors,latch,2,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/latch_x2.stl,Prusament ASA
+Panel-Mounting,Front-Doors,handle-b,2,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/handle_b_x2.stl,Prusament ASA
+Panel-Mounting,Front-Doors,door-hinge,6,Black,Not Printed,,YES,NO,Panel_Mounting/Front_Doors/door_hinge_x6.stl,Prusament ASA
