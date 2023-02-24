@@ -1,2 +1,4 @@
 .DS_Store
 custom/**/*.gcode
+custom/**/*.zip
+custom/mods/**/images
